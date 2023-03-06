@@ -1,0 +1,17 @@
+{
+  "name": "supabase-edge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "supabase": "^1.40.4"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.10.0"
+  }
+}
